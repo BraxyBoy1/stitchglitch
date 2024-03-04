@@ -1,5 +1,9 @@
 # [Brax]'s Digital Portfolio - [School Year]
 
+[Avatar] https://readyplayer.me/gallery/65e64513b8a463791b7eb04f-ZXw2Lgjpeg
+
+
+
 ## 1. Introduction:
    - Brief introduction about the student, their interests, and goals for the year.
 
