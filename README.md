@@ -1,6 +1,6 @@
 # [Brax]'s Digital Portfolio - [School Year]
 
-[Avatar] https://readyplayer.me/gallery/65e64513b8a463791b7eb04f-ZXw2Lgjpeg
+[Avatar](https://readyplayer.me/gallery/65e64513b8a463791b7eb04f-ZXw2Lgjpeg)
 
 
 
